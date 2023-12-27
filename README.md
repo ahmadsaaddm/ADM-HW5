@@ -16,6 +16,12 @@ This repository includes the solutions of Homework 5 from the Group 15:
             <td>2085698</td>
             <td>andre.leibrant@gmx.de</td>
         </tr>
+        <tr>
+            <td>Gianluca Procopio</td>
+            <td>gianluca-24</td>
+            <td>1942103</td>
+            <td>procopio.1942103@studenti.uniroma1.it</td>
+        </tr>
     </table>
 </div>
 
