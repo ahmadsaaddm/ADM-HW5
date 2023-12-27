@@ -22,6 +22,12 @@ This repository includes the solutions of Homework 5 from the Group 15:
             <td>1942103</td>
             <td>procopio.1942103@studenti.uniroma1.it</td>
         </tr>
+        <tr>
+            <td>Susanna Bravi</td>
+            <td>susannabravi</td>
+            <td>1916681</td>
+            <td>bravi.1916681@studenti.uniroma1.it</td>
+        </tr>
     </table>
 </div>
 
