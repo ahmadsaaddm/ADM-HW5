@@ -28,9 +28,15 @@ This repository includes the solutions of Homework 5 from the Group 15:
             <td>1916681</td>
             <td>bravi.1916681@studenti.uniroma1.it</td>
         </tr>
+        <tr>
+            <td>Ahmad Saad</td>
+            <td>ahmadsaaddm</td>
+            <td>2133825</td>
+            <td>ahmadsaaddm@gmail.com</td>
+        </tr>
     </table>
 </div>
 
-The main notebook is `main.ipynb` which reads the module `functions.py`.
+The main notebook is `main.ipynb`.
 
 The shell script for the Command Line Question is `CommandLine.sh`.
